@@ -38,4 +38,14 @@ body{
      background-color: #512DA8;
 }
 
+.card-header {
+		background-color: #F7B14F;
+}
 
+.radio-inline {
+		padding: 0px 20px 0px 0px;
+}
+
+.yl {
+		background-color: #F7B14F;
+}
